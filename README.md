@@ -3,7 +3,7 @@
 
 This is a **simple notes application** built using **Java**, which allows users to create, view, and delete notes. The app uses a **CSV file** to store note data, but it's still under development, and some features are incomplete or missing.
 
-![Interface img](src\assets\interface.png)
+![Interface img](./src/assets/interface.png)
 
 ---
 
